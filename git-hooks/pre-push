@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+puts('nope')
+
+exit 1
